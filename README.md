@@ -36,4 +36,4 @@ CountMyShorts uses these Chrome permissions:
 CountMyShorts is not designed for children under 13.
 
 ## Contact
-For privacy questions, contact: **REPLACE_WITH_YOUR_EMAIL**
+For privacy questions, contact: vighneshaka8921@gmail.com
